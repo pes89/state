@@ -4,9 +4,7 @@ Pablo Esparza
 ## Table of Contents
 1. [General Info](#general-info)
 2. [FilesInfo](#files-info)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+
 ### General Info
 ***
 Es una aplicación para trabajar cuando usar StatefulWidget y Stateless
